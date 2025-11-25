@@ -111,7 +111,8 @@ Backend includes:
 # 📸 Screenshots
 
 ### Backend Running
-sandbox:/mnt/data/28cff8d9-9078-4033-a066-761d47f9df01.png
+![Backend Running](screenshots/backend-running.png)
+
 
 ### API Response
 ![API Response](screenshots/api-response.png)
